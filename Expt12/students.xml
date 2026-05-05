@@ -3,13 +3,13 @@
 <students>
   <student>
     <id>1</id>
-    <name>Hitendra</name>
+    <name>Prathamesh</name>
     <branch>CSE</branch>
     <year>2</year>
   </student>
   <student>
     <id>2</id>
-    <name>Siya</name>
+    <name>Riya</name>
     <branch>IT</branch>
     <year>3</year>
   </student>
