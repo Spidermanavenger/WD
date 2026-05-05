@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="Expt13.xsl"?>
 <students>
   <student>
-    <name>Hitendra</name>
+    <name>Prathamesh</name>
     <marks>85</marks>
   </student>
   <student>
-    <name>Siya</name>
+    <name>Riya</name>
     <marks>45</marks>
   </student>
 </students>
